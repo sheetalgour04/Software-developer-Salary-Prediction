@@ -6,4 +6,4 @@ Here We have taken the data from stack-overflow-survey-2020 and after preprocess
 
 and train or model with this data
 
-([https://sheetalgour04-software-developer-salary-prediction-app-7o17lh.streamlitapp.com])
+https://sheetalgour04-software-developer-salary-prediction-app-7o17lh.streamlitapp.com
